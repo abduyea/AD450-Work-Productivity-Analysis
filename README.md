@@ -46,7 +46,6 @@ How to Run the Code
     git clone https://github.com/your-username/garment-productivity-analysis.git
     cd garment-productivity-analysis
     ```
-
 2. Install Required Libraries:
     The project requires the following libraries:
     - pandas
@@ -64,10 +63,7 @@ How to Run the Code
     ```
     jupyter notebook
     ```
-
  Project Structure
-
-
 .
 ├── data
 │   └── garments_worker_productivity.csv
