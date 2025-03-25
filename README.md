@@ -66,7 +66,15 @@ How to Run the Code
  Project Structure
 .
 data : garments_worker_productivity.csv
+
+
 notebooks : garments_worker_productivity_analysis.ipynb
+
+
 src : data_cleaning.py
+
+
 requirements.yml
+
+
 README.md
