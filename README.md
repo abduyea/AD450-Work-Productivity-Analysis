@@ -65,18 +65,8 @@ How to Run the Code
     ```
  Project Structure
 .
-├── data
-│   └── garments_worker_productivity.csv
-├── notebooks
-│   └── garments_worker_productivity_analysis.ipynb
-├── images
-│   └── targeted_productivityVS_actual_productivity.png
-│   └── overtime_vs_actual_productivity.png
-│   └── correlation_matrix.png
-│   └── departmental_performance.png
-│   
-├── src
-│   └── data_cleaning.py
-│   
-├── requirements.txt
-└── README.md
+data : garments_worker_productivity.csv
+notebooks : garments_worker_productivity_analysis.ipynb
+src : data_cleaning.py
+requirements.yml
+README.md
